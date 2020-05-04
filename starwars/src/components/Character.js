@@ -14,15 +14,6 @@ function CharacterCard(props) {
           <Card
             body
             className="center"
-            style={{
-              backgroundColor: "#757575",
-              border: "solid 2px black",
-              borderRadius: "5px",
-              margin: "5%",
-              height: "25%",
-              width: "25%",
-              flexWrap: "wrap",
-            }}
           >
             <Button
               color="primary"
